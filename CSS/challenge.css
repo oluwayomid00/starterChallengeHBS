@@ -1,0 +1,33 @@
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+
+h1 span {
+  color: hsl(277, 64%, 61%);
+}
+
+.container {
+  background-color: hsl(244, 38%, 16%);
+  display: flex;
+  text-align: center;
+}
+
+.mh {
+  font-family: "Inter", sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.mp {
+  font-family: "Inter", sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.sh {
+  font-family: "Inter", sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.sp {
+  font-family: "Lexend Deca", sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+}/*# sourceMappingURL=challenge.css.map */
